@@ -3,7 +3,7 @@ const movies = [
       { title: "Kung Fu Hustle (2004)", image: "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg", url: "https://example.com/film2" },
       { title: "Shaolin Soccer (2001)", image: "https://image.tmdb.org/t/p/w500/1aOnEAg3FSIg8DncA9JvMBuARTZ.jpg", url: "https://example.com/film3" },
       { title: "3 Idiots (2009)", image: "https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg", url: "https://example.com/film4" },
-      { title: "Film 5", image: "https://image.tmdb.org/t/p/w500/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg", url: "https://example.com/film5" },
+      { title: "A Little Thing Called Love (2010)", image: "https://image.tmdb.org/t/p/w500/mdm2vTbBuUo8lWcizGW48FzIelb.jpg", url: "https://example.com/film5" },
       { title: "Film 6", image: "https://image.tmdb.org/t/p/w500/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg", url: "https://example.com/film6" },
       { title: "Film 7", image: "https://image.tmdb.org/t/p/w500/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg", url: "https://example.com/film7" },
       { title: "Film 8", image: "https://image.tmdb.org/t/p/w500/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg", url: "https://example.com/film8" },
